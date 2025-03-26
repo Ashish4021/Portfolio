@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Second Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <section class="top_section">
+
+                <div class="image">
+                    <img src="https://www.shutterstock.com/image-illustration/dr-apj-abdul-kalam-portrait-600nw-2310267175.jpg" alt="photo" height="200px" width="220px"/>
+                </div>
+                <div>
+                    <h1>APJ Abdul Kalam</h1>
+                    <h4>1931-2015</h4>
+                </div>
+            </section>
+            <section>
+                <section class="about_section">
+                    <h2>Missile man of india</h2>
+                    <br>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse, asperiores pariatur! Qui ut ducimus maiores sed voluptates, saepe odit eveniet? Nulla aperiam blanditiis, ex libero tenetur dolor enim quisquam voluptates! Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero temporibus eligendi blanditiis saepe vel asperiores facere minus tenetur minima cupiditate labore officiis, ratione in placeat nisi cum, ab, provident commodi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum quibusdam itaque necessitatibus numquam nihil facilis est sequi amet quidem vero. Voluptates, veniam! Sed nesciunt fugiat neque veniam, esse laboriosam expedita.
+                    Hic explicabo magnam dolor placeat quisquam asperiores libero illum illo fugit, nulla cum incidunt voluptatum doloremque. Debitis officia nisi quasi! Voluptates tenetur ducimus nemo corrupti aspernatur animi ab officia eos.
+                    Debitis voluptatibus perferendis necessitatibus velit, beatae saepe id excepturi qui cumque ab voluptate. Voluptates tempora in, quo optio error repudiandae cupiditate, debitis nam architecto nesciunt porro dolores totam commodi sit.
+                    Eius molestiae perferendis a odit atque excepturi error accusamus, non harum explicabo asperiores, placeat at, rerum beatae dolorum dolor aliquid. Laborum id esse harum eveniet dolor perspiciatis iste aperiam voluptas?
+                    Possimus optio molestias fugit sit debitis sunt similique ut ad. Sint culpa provident eligendi cum et. Nam, excepturi esse provident molestias, dolore magni rem quos earum quis alias cumque et.</p>
+                
+                </section>
+
+            </section>
+            <section>
+                <section class="Biography_section">
+                    <h3>Biographies</h3>
+                    <ul>
+                        <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, fugiat. Ipsum illo eligendi reprehenderit quaerat voluptas dicta quisquam, dignissimos laborum fugiat! Dignissimos necessitatibus sed dolorem quis adipisci labore est nostrum.</li>
+                        <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident officia ratione aut eaque, excepturi consectetur amet magni neque porro reprehenderit dolore mollitia est ipsa dolorum, ea obcaecati rerum, velit deleniti.</li>
+                        <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae obcaecati temporibus amet, ullam aliquam distinctio nobis qui veniam est omnis molestiae incidunt vel nemo quaerat quod recusandae, illo odio aspernatur.</li>
+                        <li>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla rem aliquid, fugit unde, autem incidunt natus veritatis modi adipisci sint facere. Commodi quam doloribus voluptatem necessitatibus magni. Repellat, tempora quibusdam.</li>
+                    </ul>
+                </section>
+            </section>
+
+            <footer>
+                <p>Lorem repellendus atque dolorem repellat?<a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam" target="_blank"><br>wikipedia</a></p>
+            </footer>
+
+
+
+        </div>
+  
+    </div>
+ 
+
+  
+    
+</body>
+</html>
